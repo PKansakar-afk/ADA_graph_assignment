@@ -1,6 +1,3 @@
-# Master runner for all Part B algorithms. Run this file to execute B1, B2, B3, and B4 in sequence.
-# Usage: python run_part_b.py
-
 import os
 import sys
 
