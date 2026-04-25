@@ -132,5 +132,5 @@ def run_c1(filepath):
     return mst_edges, total_cost
 
 if __name__ == '__main__':
-    DATA_PATH = os.path.join(os.path.dirname(__file__), '..', 'data', 'infra.csv')
+    DATA_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'infra.csv')
     run_c1(DATA_PATH)
