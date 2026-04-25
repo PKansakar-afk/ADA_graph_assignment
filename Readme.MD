@@ -3,13 +3,13 @@
 ## 1. Clone or download the repository
 
 ```bash
-git clone <your-repo-url>
-cd assignment4
+git clone https://github.com/PKansakar-afk/ADA_graph_assignment.git
+cd ADA_graph_assignment
 ```
 
 ## How to Run
 
-All commands should be run from the **root `assignment4/` directory**.
+All commands should be run from the **root `ADA_graph_assignment/` directory**.
 
 ### Run all of Part B (BFS, DFS, Dijkstra, Bellman-Ford, Floyd-Warshall)
 
